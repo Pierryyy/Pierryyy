@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierryyy&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
+
 <div> 
   <a href="https://www.youtube.com/channel/UC-8I_eju_vETKVcYBen8Evg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Pierrykkj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
