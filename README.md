@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pierry 👋
 
 - 🔭 Hoje meu foco é trabalhar como Full-Stack
-- 🌱 Estudando JavaScript, React e Noje
+- 🌱 Estudando JavaScript, React e Node
 - 👯 Entre em contato no meu email: derungspierry15@gmail.com
 
 <div align="center">
