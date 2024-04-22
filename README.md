@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Pierry 👋
 
-- 🔭 Hoje meu foco é trabalhar como Back-End
-- 🌱 Trabalhando com PHP, CodeIgniter e Javascript 
-- 👯 Entre em contato no meu email: derungspierry15@gmail.com
+- 🔭 Hoje meu foco é trabalhar como Fullstack
+- 🧑🏻‍💻 Trabalho com PHP, Javascript e Python
+- ✉️ Entre em contato no meu email: derungspierry15@gmail.com
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pierryy/">
